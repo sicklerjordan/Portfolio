@@ -1,0 +1,67 @@
+.footer {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 400px;
+}
+.footer h1 {
+    background: #8e9eab;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.footer p {
+    color: var(--text);
+    font-size: 20px;
+}
+
+
+.footer button {  
+    font-size: 30px;
+    background: none;
+    border: 1px solid var(--secondary);
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    color: var(--secondary);
+    margin-bottom: 25px;
+    margin-top: 25px;
+    cursor: pointer;
+    transition: 1s;
+  }
+  
+  .footer button:hover {
+    background-color: rgba(29, 146, 111, 0.2);
+  }
+  .footer span{
+      font-size: 10px;
+      color: var(--text);
+      margin-top: 200px;
+      margin-bottom: 40px;
+      
+  }
+
+  .footer a {
+      color: var(--secondary)
+  }
+
+  @media screen and (max-width: 420px) {
+      .footer h1 {
+          font-size: 25px;
+      }
+
+      .footer p{
+          font-size: 10px;
+      }
+
+      .footer button {
+          height: 25px;
+          width: 100px;
+          border-radius: 5px;
+          font-size: 15px;
+      }
+  }
