@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2f441f9a.css",
-    "main.js": "/Portfolio/static/js/main.ad87344b.js",
-    "static/media/rick.png": "/Portfolio/static/media/rick.bdf3b64c1755893a3be0.png",
-    "static/media/admin.png": "/Portfolio/static/media/admin.0b82a71f1f59640fbbe1.png",
-    "static/media/reddit.png": "/Portfolio/static/media/reddit.2e4e61d3c37fc8a05c32.png",
-    "static/media/color.png": "/Portfolio/static/media/color.8f40d3abd00e9bea6574.png",
-    "static/media/crypto-site.png": "/Portfolio/static/media/crypto-site.6bf96a968589ab663221.png",
-    "static/media/ss.png": "/Portfolio/static/media/ss.491b539042761ae14cd1.png",
-    "static/media/coding-pic.png": "/Portfolio/static/media/coding-pic.b20f5b3f8d328bc7fa3f.png",
-    "index.html": "/Portfolio/index.html",
-    "main.2f441f9a.css.map": "/Portfolio/static/css/main.2f441f9a.css.map",
-    "main.ad87344b.js.map": "/Portfolio/static/js/main.ad87344b.js.map"
+    "main.css": "/portfolio/static/css/main.2f441f9a.css",
+    "main.js": "/portfolio/static/js/main.9762e59e.js",
+    "static/media/rick.png": "/portfolio/static/media/rick.bdf3b64c1755893a3be0.png",
+    "static/media/admin.png": "/portfolio/static/media/admin.0b82a71f1f59640fbbe1.png",
+    "static/media/reddit.png": "/portfolio/static/media/reddit.2e4e61d3c37fc8a05c32.png",
+    "static/media/color.png": "/portfolio/static/media/color.8f40d3abd00e9bea6574.png",
+    "static/media/crypto-site.png": "/portfolio/static/media/crypto-site.6bf96a968589ab663221.png",
+    "static/media/ss.png": "/portfolio/static/media/ss.491b539042761ae14cd1.png",
+    "static/media/coding-pic.png": "/portfolio/static/media/coding-pic.b20f5b3f8d328bc7fa3f.png",
+    "index.html": "/portfolio/index.html",
+    "main.2f441f9a.css.map": "/portfolio/static/css/main.2f441f9a.css.map",
+    "main.9762e59e.js.map": "/portfolio/static/js/main.9762e59e.js.map"
   },
   "entrypoints": [
     "static/css/main.2f441f9a.css",
-    "static/js/main.ad87344b.js"
+    "static/js/main.9762e59e.js"
   ]
 }
